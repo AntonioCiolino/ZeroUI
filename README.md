@@ -59,7 +59,7 @@ Here’s a simple example of creating and displaying a button and label:
 
 ```
 from PIL import ImageFont
-from my_ui_package import EventManager, App, Button, Label
+from ZeroUI import EventManager, App, Button, Label
 
 def button_callback(button):
     print(f"Button {button.text} pressed")

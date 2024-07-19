@@ -9,7 +9,7 @@ setup(
         "evdev"
     ],
     author="Antonio Ciolino",
-    author_email="antonio.ciolino@icloud.com"
+    author_email="antonio.ciolino@icloud.com",
     description="ZeroUI: A package for UI components",
     license="",
     keywords="Pi Zero, UI, touchscreen, PiTFT",
