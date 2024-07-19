@@ -47,14 +47,13 @@ This is not a rock-solid implementation; it is a starting point to get things ru
 ### Configuration
 
 	1.	Configure the Touchscreen Device Path
-Update the device_path in TouchscreenHandler class to match your device.
-	2.	Run the Application
+    Update the device_path in TouchscreenHandler class to match your device.
 
-python app.py
+	2.	Run the Application
+    python app.py
 
 ### Usage
-
-Creating UI Components
+#### Creating UI Components
 
 Here’s a simple example of creating and displaying a button and label:
 
