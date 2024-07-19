@@ -1,5 +1,5 @@
 import json
-from Item import Item
+from .Item import Item
 
 class ListFormatter:
     def __init__(self, items):

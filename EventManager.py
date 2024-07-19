@@ -1,4 +1,4 @@
-from TouchscreenHandler import TouchscreenHandler
+from .TouchscreenHandler import TouchscreenHandler
 
 class EventManager:
     def __init__(self):
